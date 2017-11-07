@@ -1,0 +1,74 @@
+Recording Voice ...
+
+Record Complete !
+
+IQR : 0.012838 and FundFreqMean : 0.146737 
+
+Arithmetic Statistical Model Predicted You Are A : FEMALE ! 
+
+Time Taken to Fit the Model : 0.02083277702331543 Secs
+Time Taken to Predict using the Fitted Model : 0.0 Secs
+Linear SVM Model Predicted You Are A : FEMALE ! 
+
+Time Taken to Fit the Model : 0.6324560642242432 Secs
+Time Taken to Predict using the Fitted Model : 0.0 Secs
+Polynomial SVM Model Predicted You Are A : FEMALE ! 
+
+Time Taken to Fit the Model : 6.282505750656128 Secs
+Time Taken to Predict using the Fitted Model : 0.0 Secs
+Gaussian SVM Model Predicted You Are A : FEMALE ! 
+
+Time Taken to Fit the Model : 0.08370542526245117 Secs
+Time Taken to Predict using the Fitted Model : 0.0 Secs
+Sigmoidal SVM Model Predicted You Are A : FEMALE ! 
+
+
+Recording Voice ...
+
+Record Complete !
+
+IQR : 0.006776 and FundFreqMean : 0.060163 
+
+Arithmetic Statistical Model Predicted You Are A : FEMALE ! 
+
+Time Taken to Fit the Model : 0.015624523162841797 Secs
+Time Taken to Predict using the Fitted Model : 0.0 Secs
+Linear SVM Model Predicted You Are A : MALE ! 
+
+Time Taken to Fit the Model : 0.6714532375335693 Secs
+Time Taken to Predict using the Fitted Model : 0.0005013942718505859 Secs
+Polynomial SVM Model Predicted You Are A : MALE ! 
+
+Time Taken to Fit the Model : 6.248473882675171 Secs
+Time Taken to Predict using the Fitted Model : 0.0 Secs
+Gaussian SVM Model Predicted You Are A : FEMALE ! 
+
+Time Taken to Fit the Model : 0.08099126815795898 Secs
+Time Taken to Predict using the Fitted Model : 0.0 Secs
+Sigmoidal SVM Model Predicted You Are A : MALE ! 
+
+
+Recording Voice ...
+
+Record Complete !
+
+IQR : 0.078327 and FundFreqMean : 0.096756 
+
+Arithmetic Statistical Model Predicted You Are A : MALE ! 
+
+Time Taken to Fit the Model : 0.03126835823059082 Secs
+Time Taken to Predict using the Fitted Model : 0.0 Secs
+Linear SVM Model Predicted You Are A : MALE ! 
+
+Time Taken to Fit the Model : 0.6473841667175293 Secs
+Time Taken to Predict using the Fitted Model : 0.0 Secs
+Polynomial SVM Model Predicted You Are A : MALE ! 
+
+Time Taken to Fit the Model : 6.210510969161987 Secs
+Time Taken to Predict using the Fitted Model : 0.0 Secs
+Gaussian SVM Model Predicted You Are A : MALE ! 
+
+Time Taken to Fit the Model : 0.10230469703674316 Secs
+Time Taken to Predict using the Fitted Model : 0.0 Secs
+Sigmoidal SVM Model Predicted You Are A : MALE ! 
+
